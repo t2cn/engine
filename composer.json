@@ -1,5 +1,5 @@
 {
-  "name": "t2cn/t2-engine",
+  "name": "t2cn/engine",
   "type": "project",
   "keywords": [
     "high performance",
@@ -19,10 +19,10 @@
   ],
   "support": {
     "email": "dev@t2engine.cn",
-    "issues": "https://github.com/t2cn/t2-engine/issues",
+    "issues": "https://github.com/t2cn/engine/issues",
     "forum": "https://forum.t2engine.cn/",
     "wiki": "https://wiki.t2engine.cn/",
-    "source": "https://github.com/t2cn/t2-engine"
+    "source": "https://github.com/t2cn/engine"
   },
   "require": {
     "php": ">=8.3",
