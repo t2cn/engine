@@ -8,7 +8,7 @@
   ],
   "homepage": "https://www.t2engine.cn",
   "license": "MIT",
-  "description": "High performance HTTP Service Framework.",
+  "description": "High performance HTTP Service Engine.",
   "authors": [
     {
       "name": "Tony",
