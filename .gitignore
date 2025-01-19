@@ -1,5 +1,6 @@
 /.idea/
 /vendor/
+/runtime/
 /start.php
 /windows.bat
 /windows.php
