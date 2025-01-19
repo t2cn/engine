@@ -1,0 +1,6 @@
+/.idea/
+/vendor/
+/start.php
+/windows.bat
+/windows.php
+/composer.lock
